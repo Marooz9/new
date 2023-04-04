@@ -1,0 +1,95 @@
+.main{
+    background-color:  rgb(46, 45, 45)
+    background-size: 50% 100%;
+    text-align: center;
+    border: solid1 3px;
+    border-radius: 20px;
+    width: 500px;
+    margin-top: 30px;
+    
+}
+#lol{
+    width: 300px;
+    height: 300px;
+}
+body{
+    background-image: linear-gradient( darkgreen,rgb(100, 100, 37),black);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+
+}
+#hfirst{
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 30px;
+    border:solid rgb(0, 27, 77) 0px;
+    width: 300px;
+    text-align: center;
+    background-color: rgb(155, 155, 155);
+    border-radius: 10px;
+}
+.info{
+    background-color: rgb(46, 45, 45);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    color: wheat;
+    border: black solid 2px;
+    margin-top: 100px;
+    width: 1500px;
+    padding: 10px ;
+    border-radius: 10px;
+    float: left;
+    display: flex;
+}
+p{
+    font-size: 22px;
+    font-weight: lighter;
+    color: wheat;
+}
+#titan{
+    height: 200px;
+}
+
+.characters{
+    float: right;
+    border: 1px solid rgb(0, 0, 0);
+    width: 200px;
+    margin-top: 100px;
+    background-color: rgb(46, 45, 45);
+    border-radius: 10px;
+    color: wheat;
+    padding-left: 10px;
+    
+}
+
+.char{
+    width: 100px;
+    height: 100px;
+}
+ul{
+    font-size: 20px;
+    font-weight: lighter;
+    font-family: serif;
+}
+
+.img1{
+    width: 100px;
+    margin-top: -30px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+
+#final{
+    float: right;
+    width: 500px;
+    margin-right: 300px;
+    margin-left: 200px;
+    margin-top: 150px; 
+    height: 800px;
+    border: 2px solid black;
+    border-radius: 10px;
+    
+}
